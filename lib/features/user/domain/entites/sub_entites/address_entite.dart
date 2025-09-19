@@ -1,4 +1,4 @@
-import 'package:happytech_clean_architecture/features/user/domain/entities/sub_enities/geo_entity.dart';
+import 'package:happytech_clean_architecture/features/user/domain/entites/sub_entites/geo_entity.dart';
 
 class AddressEntity {
   final String street;
